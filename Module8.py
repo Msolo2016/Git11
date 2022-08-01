@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 #networkFileRWsol.py
-#Pamela Brauda
+#Modified by Michael Solomon
+#For Assignment Git11
 #Thursday, March 3, 2022
 #Thursday, March 10, 2022 updated
 #Update routers and switches;
